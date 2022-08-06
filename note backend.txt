@@ -1,0 +1,15 @@
+ketika desain vue web Kuliner SantapSantuy
+
+Warna primary: #4EB883
+Warna secondary: #E9F9F4
+Ilustrasi: source undraw.co
+Gambar: source unsplash.com
+Fonts.Google: Montserrat. Settingnya di main.css 
+
+
+cara mengaktifkan json kulineran-backend lewat terminal gitbash
+~/BelajarVueJs/kulineran-backend
+json-server --watch db.json
+
+main.css terkoneksi dengan file main.js
+import './assets/css/main.css'
